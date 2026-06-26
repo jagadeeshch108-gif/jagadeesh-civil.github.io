@@ -1,0 +1,27 @@
+{
+  "name": "Jagadeesh Chintalapudi — Civil Engineer",
+  "short_name": "Civil Techy",
+  "description": "Civil Engineer specialising in Bridge Engineering, Barrage Construction, Quantity Surveying and QA/QC. Based in Kakinada, Andhra Pradesh.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1a3a5c",
+  "theme_color": "#1a3a5c",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "assets/images/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/images/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["business", "productivity"],
+  "lang": "en-IN",
+  "dir": "ltr"
+}
